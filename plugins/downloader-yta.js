@@ -20,5 +20,5 @@ await conn.sendFile(m.chat, lolh.result.link, `${n}.mp3`, null, m, false, { mime
 } catch {
 await conn.reply(m.chat, '*[❀] 𝙴𝚁𝚁𝙾𝚁*', m)}
 }}
-handler.command = /^fgmp3|dlmp3|miki|getaud|yt(a|mp3)$/i
+handler.command = /^musique$/i
 export default handler
