@@ -150,6 +150,6 @@ handler.help = ["cartoon"];
 handler.tags = ["ai"];
 handler.command = ["cartoon"];
 
-handler.premium = true
+handler.premium = false
 
 export default handler;
