@@ -13,9 +13,9 @@ let text
     } else if (m.quoted && m.quoted.text) {
         text = m.quoted.text
     } else throw "مثال \n .nour Bobiza"
-   if (!text) return m.reply('𝙔 𝙀𝙇 𝙏𝙀𝙓𝙏𝙊?')
+   if (!text) return m.reply('𝙏𝙀𝙓𝙏E?')
    if (text.length > 30) return m.reply('𝙈𝘼𝙓𝙄𝙈UN 30 𝙋!')
-    let pp = await conn.profilePictureUrl(m.sender, 'image').catch(_ => 'https://telegra.ph/file/a2ae6cbfa40f6eeea0cf1.jpg')
+    let pp = await conn.profilePictureUrl(m.sender, 'image').catch(_ => 'https://telegra.ph/file/c0c8a7440635f381fe098.jpg')
 
    const obj = {
       "type": "quote",
