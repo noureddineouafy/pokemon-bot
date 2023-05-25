@@ -29,7 +29,7 @@ var handler = async (m, { conn, command, text, usedPrefix }) => {
 mediaType:  2,
 mediaUrl: `${url}`,
 title: `BOBIZ IS HERE ♥...`,
-body: wm,
+body:author,
 sourceUrl: 'http://wa.me/59176184204', thumbnail: await ( await conn.getFile(thumbnail)).data
   }
  } 
@@ -49,7 +49,7 @@ mimetype: 'audio/mp4', fileName: `${title}`, contextInfo: { externalAdReply: { s
 mediaType:  2,
 mediaUrl: url,
 title: title,
-body: wm,
+body: author,
 sourceUrl: url,
 thumbnail: await(await conn.getFile(thumbnail)).data                                                                     
                                                                                                                  }
