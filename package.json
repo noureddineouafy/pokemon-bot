@@ -38,7 +38,7 @@
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
-        "@adiwajshing/baileys":  "github:Guru322/baileys",
+        "@adiwajshing/baileys":  "npm:baileys-md@5.0.5",
         "@bochilteam/scraper": "^3.0.0",
         "awesome-phonenumber": "^3.4.0",
         "acrcloud": "^1.4.0",
@@ -88,9 +88,7 @@
         "api-dylux": "^1.2.8",
         "@vitalets/google-translate-api": "^8.0.0",
         "yargs": "^17.6.0",
-        "ytdl-core": "^4.11.2"
-    },
-    "optionalDependencies": {
+        "ytdl-core": "^4.11.2",
          "wa-sticker-formatter": "^4.3.2",
         "moment-timezone": "^0.5.37"
     }
