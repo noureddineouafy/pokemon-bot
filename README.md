@@ -10,13 +10,13 @@
 <p/>
 <p align="center">
 <a href="https://github.com/noureddineouafy?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/noureddineouafy?label=Followers&style=social"></a>
-<a href="https://github.com/noureddineouafy/Bobiza-V1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Guru322/GURU-BOT?&style=social"></a>
-<a href="https://github.com/Guru322/GURU-BOT/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Guru322/GURU-BOT?style=social"></a>
-<a href="https://github.com/Guru322/GURU-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Guru322/GURU-BOT?label=Watching&style=social"></a>
+<a href="https://github.com/noureddineouafy/Bobiza-V1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/noureddineouafy/Bobiza-V1?&style=social"></a>
+<a href="https://github.com/Guru322/GURU-BOT/network/members"><img title="Fork" src="https://img.shields.io/github/forks/noureddineouafy/Bobiza-V1?style=social"></a>
+<a href="https://github.com/noureddineouafy/Bobiza-V1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/noureddineouafy/Bobiza-V1?label=Watching&style=social"></a>
 </p>
 
 ####  
-GURU-BOT- Simple Multi Device whatsapp bot.
+BOBIZA-BOT- Simple Multi Device whatsapp bot.
 
 ***
 
