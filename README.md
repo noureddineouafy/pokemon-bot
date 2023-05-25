@@ -2,7 +2,7 @@
 <p align="center">  
   <a href="https://youtube.com/@noureddineouafy2">
     <img alt="BOBIZA" height="300" src="https://telegra.ph/file/c0c8a7440635f381fe098.jpg">
-    <h1 align="center">GURU-BOT</h1>
+    <h1 align="center">BOBIZA-BOT</h1>
   </a>
 </p>
 <p align="center">
