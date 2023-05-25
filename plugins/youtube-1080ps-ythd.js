@@ -51,7 +51,7 @@ const handler = async (m, { conn, args, command }) => {
   }
 }
 
-handler.command = /^(getvid|ytmp4|youtubemp4|v|ytv)$/i
+handler.command = /^(ythd)$/i
 handler.help = ["getvid <linkYt>","ytmp4 <linkYT>"]
 handler.tags = ['downloader']
 
