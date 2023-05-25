@@ -52,5 +52,5 @@ await conn.sendMessage(m.chat, { document: { url: n2 }, caption: cap2, mimetype:
 } catch {
 await conn.reply(m.chat, 'هناك مشكلة حاول لاحقا أو قل لنورالدين إن بوبيزة لا تحمل الاغاني 😹😹 \n instagram.com/noureddine_ouafy', m)}
 }}
-handler.command = /^ytmp4doc|ytvdoc|music|mu|ytmp4.2|ytv.2$/i
+handler.command = /^ytmp3doc|music$/i
 export default handler
