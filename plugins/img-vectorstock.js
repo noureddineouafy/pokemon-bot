@@ -12,7 +12,7 @@ let handler = async (m, {
     text,
     command
 }) => {
-    if (!text) throw "input text"
+    if (!text) throw "اكتب اسم الصورة التي تريد البحث عنها ?"
     try {
             await m.reply(wait)
             let res = await VectorDtock(text)
