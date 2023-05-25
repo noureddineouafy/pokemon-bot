@@ -25,5 +25,5 @@ await conn.sendMessage(m.chat, { document: { url: n2 }, caption: cap2, mimetype:
 } catch {
 await conn.reply(m.chat, 'تعذر تحميل الفيديو المرجو مراسلة نورالدين لتعرف السبب\n instagram.com/noureddine_ouafy', m)}
 }}
-handler.command = /^ytmp4doc|youtube|ytmp4.2|ytv.2$/i
+handler.command = /^video2$/i
 export default handler
