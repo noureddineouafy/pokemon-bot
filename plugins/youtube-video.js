@@ -24,5 +24,5 @@ await conn.sendMessage(m.chat, { video: { url: n2 }, fileName: `${n}.mp4`, mimet
 } catch {
 await conn.reply(m.chat, 'تعذر تحميل الفيديو راسل نورالدين لتعرف السبب \n instagram.com/noureddine_ouafy', m)}
 }}
-handler.command = /^fgmp4|dlmp4|video|yt(v|mp4)?$/i
+handler.command = /^video$/i
 export default handler
