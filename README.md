@@ -22,3 +22,6 @@ BOBIZA-BOT- Simple Multi Device whatsapp bot.
 
 
 #### DEPLOY TO REPLIT (COMMING SOON)
+Now Deploy
+    <br>
+<p align="center"><a href="https://repl.it/github/noureddineouafy/Bobiza-md"> <img src="https://img.shields.io/badge/replit%20Deploy-blue?style=for-the-badge&logo=replit" width="220" height="38.45"/></a></p>
