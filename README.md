@@ -1,7 +1,7 @@
 
 <p align="center">  
   <a href="https://youtube.com/@noureddineouafy2">
-    <img alt="POKEMON" height="300" scr="https://telegra.ph/file/ab801820c03db9f7cab40.jpg">
+      <img alt="BOBIZA" height="300" src="https://telegra.ph/file/c0c8a7440635f381fe098.jpg">
     <h1 align="center">POKEMON-BOT</h1>
   </a>
 </p>
